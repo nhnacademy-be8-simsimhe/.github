@@ -26,12 +26,15 @@
 | <img width="200" height="200" alt="제승욱프로필" src="https://avatars.githubusercontent.com/u/89589209?v=4"> | <img width="200" height="200" alt="김재진프로필" src="https://avatars.githubusercontent.com/u/65704177?v=4"> | <img width="200" height="200" alt="임채환프로필" src="https://avatars.githubusercontent.com/u/122259769?v=4"> |
 |                     - Backend developer                      |                      -Backend developer                      |                     - Backend developer                      |
 |          [🔗GitHub](https://github.com/jacobjea)           |           [🔗GitHub](https://github.com/alstj2384)            |         [🔗GitHub](https://github.com/strongchaehwan)         |
-|                         Back 제승욱                          |                         Back 김재진                          |                         Back 임채환                          |
 
+>
 
+|                         Back 김민경                          |                         Back 이주현                          |                         Back 고동원                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img width="200" height="200" alt="제승욱프로필" src="https://avatars.githubusercontent.com/u/89589209?v=4"> | <img width="200" height="200" alt="김재진프로필" src="https://avatars.githubusercontent.com/u/65704177?v=4"> | <img width="200" height="200" alt="임채환프로필" src="https://avatars.githubusercontent.com/u/122259769?v=4"> |
+| <img width="200" height="200" alt="김민경프로필" src="https://avatars.githubusercontent.com/u/89589209?v=4"> | <img width="200" height="200" alt="이주현프로필" src="https://avatars.githubusercontent.com/u/65704177?v=4"> | <img width="200" height="200" alt="고동원프로필" src="https://avatars.githubusercontent.com/u/122259769?v=4"> |
 |                     - Backend developer                      |                      -Backend developer                      |                     - Backend developer                      |
 |          [🔗GitHub](https://github.com/jacobjea)           |           [🔗GitHub](https://github.com/alstj2384)            |         [🔗GitHub](https://github.com/strongchaehwan)         |
+
+
 
 
