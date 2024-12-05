@@ -19,3 +19,12 @@
 
 ## 🌱 팀원
 >  제승욱, 임채환, 고동원, 김민경, 김재진, 이주현
+> ## 기여자 소개 
+
+|                         Back 제승욱                          |                         Back 김재진                          |                         Back 임채환                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img width="200" height="200" alt="제승욱프로필" src="https://avatars.githubusercontent.com/u/48951477?v=4"> | <img width="200" height="200" alt="김재진프로필" src="https://avatars.githubusercontent.com/u/65704177?v=4"> | <img width="200" height="200" alt="임채환프로필" src="https://avatars.githubusercontent.com/u/122259769?v=4"> |
+|                     - Backend developer                      |                      -Backend developer                      |                     - Backend developer                      |
+|          [🔗GitHub](https://github.com/jongbinchoi)           |           [🔗GitHub](https://github.com/alstj2384)            |         [🔗GitHub](https://github.com/strongchaehwan)         |
+
+
