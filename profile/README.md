@@ -31,8 +31,7 @@
 
 |                         Back 김민경                          |                         Back 이주현                          |                         Back 고동원                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img width="200" height="200" alt="김민경프로필" src="https://avatars.githubusercontent.com/u/89589209?v=4"> | <img width="200" height="200" alt="이주현프로필" src="![image](https://github.com/user-attachments/assets/f911529b-97f6-4a90-ba00-5db4010acad5)
-"> | <img width="200" height="200" alt="고동원프로필" src="https://avatars.githubusercontent.com/u/122259769?v=4"> |
+| <img width="200" height="200" alt="김민경프로필" src="https://avatars.githubusercontent.com/u/89589209?v=4"> | <img width="200" height="200" alt="이주현프로필" src="https://avatars.githubusercontent.com/u/65704177?v=4"> | <img width="200" height="200" alt="고동원프로필" src="https://github.com/user-attachments/assets/86b128b4-884e-472a-a7db-c00e089883c2"> |
 |                     - Backend developer                      |                      -Backend developer                      |                     - Backend developer                      |
 |          [🔗GitHub](https://github.com/jacobjea)           |           [🔗GitHub](https://github.com/alstj2384)            |         [🔗GitHub](https://github.com/strongchaehwan)         |
 
