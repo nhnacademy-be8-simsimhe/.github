@@ -21,7 +21,7 @@
 
 |                         Back 제승욱                          |                         Back 김재진                          |                         Back 임채환                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img width="200" height="200" alt="제승욱프로필" src="https://avatars.githubusercontent.com/u/89589209?v=4"> | <img width="200" height="200" alt="김재진프로필" src="https://avatars.githubusercontent.com/u/65704177?v=4"> | <img width="200" height="200" alt="임채환프로필" src="https://avatars.githubusercontent.com/u/122259769?v=4"> |
+| <img width="200" height="200" alt="제승욱프로필" src="https://avatars.githubusercontent.com/u/89589209?v=4"> | <img width="200" height="200" alt="김재진프로필" src=""> | <img width="200" height="200" alt="임채환프로필" src="https://avatars.githubusercontent.com/u/122259769?v=4"> |
 |                     - Backend developer                      |                      -Backend developer                      |                     - Backend developer                      |
 |          [🔗GitHub](https://github.com/jacobjea)           |           [🔗GitHub](https://github.com/gimzaezin)            |         [🔗GitHub](https://github.com/strongchaehwan)         |
 
