@@ -146,7 +146,7 @@ URL : https://simsimbook.store/
 ### 김재진
 
 - 주문
-  - 전체적인 주문 과정 설계
+  - 전체적인 주문 과정, 배송, 포장 설계
   - 회원, 비회원 주문, view페이지 구현
   - 주문시 쿠폰, 포인트 포장지 적용 view페이지 구현
   - 관리자 상품의 배송상태, 주문상태 변경, 송장번호 등록 기능 구현
@@ -165,7 +165,7 @@ URL : https://simsimbook.store/
   - NHN LogNCrash 사용하여 여러 서버의 로그를 하나의 콘솔에서 관리
  
 - 암호화
-  - NHN Cloud Scure KeyManager 사용하여 민감한 접속정보를 암호화
+  - NHN Cloud Secure KeyManager 사용하여 민감한 접속정보를 암호화
   
 - 이미지 업로드
   - NHN Cloud Object Storage 이용 하여 이미지 등록 구현
