@@ -112,6 +112,17 @@ URL : https://simsimbook.store/
 
 ## 프로젝트 관리
 
+### 데일리 스크럼
+![scrum](https://github.com/user-attachments/assets/f740a1e8-551c-453d-bdea-041081361603)
+
+
+### WBS
+![wbs](https://github.com/user-attachments/assets/cf51d863-ae60-4601-aea5-4bb84488c666)
+
+
+### Kanban Borad
+![board](https://github.com/user-attachments/assets/704a038c-c243-4ff3-9aeb-72800c16b0dc)
+
 
 
 
