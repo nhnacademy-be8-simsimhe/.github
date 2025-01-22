@@ -109,6 +109,9 @@ URL : https://simsimbook.store/
 
 ## 프로젝트 아키텍쳐
 
+![아키텍쳐 drawio](https://github.com/user-attachments/assets/ee7e8595-c379-4bbd-a147-ea6b8a75c3b8)
+
+
 ### ERD
 ![erd](https://github.com/user-attachments/assets/b329ee7c-a195-46af-b527-4a730f85220a)
 ---
