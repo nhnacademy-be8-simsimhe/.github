@@ -144,22 +144,23 @@ URL : https://simsimbook.store/
         - 정률, 정액 정책
         - 책 쿠폰, 카테고리 쿠폰, 전체 쿠폰
     - 발급 (RabbitMq)
-        - Welcome 쿠폰
-        - 생일 쿠폰 (Spring Scheduler)
+        - 가입 시 Welcome 쿠폰 발급
+        - Spring Scheduler를 사용해 매월 1일 생일 쿠폰 발급
+    - 만료 및 삭제 (RabbitMq, Spring Scheduler)
+        - 매 시간 사용 기간이 지난 쿠폰들을 만료 처리
+        - 매일 오전 12시에 만료된 쿠폰들을 삭제
     - view
         - 발급 내역
         - 쿠폰 할인 내역
         - 쿠폰 정책 및 타입 목록
-    - 기타
-        - 쿠폰 만료
-        - 쿠폰 사용
 - CI/CD 무중단
     - CI/CD
         - Github Actions
         - 정적 코드 분석(Sonar Qube)
-    - 무중단 배포
+    - 무중단 배포 (Actuator)
         - Nginx를 통한 이중화 서버 무중단 배포
         - Eureka를 통한 무중단 배포
+        - 무중단 배포에 사용되는 script파일을 github repository로 버전 관리
 ---
 
 ### 김민경
