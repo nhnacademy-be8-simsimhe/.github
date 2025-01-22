@@ -68,6 +68,7 @@ URL : https://simsimbook.store/
 - Spring Data JPA
 - Spring Data Elasticsearch
 - Spring Data Redis
+- OAUTH
 - JPA
   - QueryDSL
  
@@ -177,8 +178,7 @@ URL : https://simsimbook.store/
 ---
 
 ### 임채환
-- 책
-- 장바구니
+
 ---
 
 ### 제승욱
