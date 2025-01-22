@@ -143,7 +143,7 @@ URL : https://simsimbook.store/
     - 정책 및 타입 설계
         - 정률, 정액 정책
         - 책 쿠폰, 카테고리 쿠폰, 전체 쿠폰
-    - 발급 기능 (RabbitMq)
+    - 발급 (RabbitMq)
         - Welcome 쿠폰
         - 생일 쿠폰 (Spring Scheduler)
     - view
