@@ -186,7 +186,7 @@ URL : https://simsimbook.store/
   - 로그인 구현
   - 소셜 로그인 구현(Oauth)
   - spring security 적용
-  - JWT 발급
+  - 인증 서버 구축하여 JWT 토큰 발급 
   - JWT 인가 처리 구현
   - refresh token 재발급 구현
   - 권한 별 접근 제한(AOP)
@@ -194,6 +194,7 @@ URL : https://simsimbook.store/
   - spring scheduler를 활용한 휴면 유저 처리 구현
   - Message를 활용한 휴면 유저 해제 코드 발급하여 휴면 해지 구현
   - 유저 탈퇴 구현
+    
     
 - 회원 주소
   - 다음 주소 외부 api 활용하여 주소 등록 기능 구현
