@@ -183,21 +183,24 @@ URL : https://simsimbook.store/
 
 ### 제승욱
 - 인증
-  - 로그인 구현
-  - 소셜 로그인 구현(Oauth)
-  - spring security 적용
-  - 인증 서버 구축하여 JWT 토큰 발급 
+  -로그인 구현
+  - 소셜 로그인 구현(OAuth Payco)
+  - Spring Security 적용
+  - 인증 서버 구축하여 JWT 토큰 발급
   - JWT 인가 처리 구현
-  - refresh token 재발급 구현
-  - 권한 별 접근 제한(AOP)
-  - 로그아웃 구현(토큰 쿠키 삭제)
-  - spring scheduler를 활용한 휴면 유저 처리 구현
-  - Message를 활용한 휴면 유저 해제 코드 발급하여 휴면 해지 구현
+  - Refresh Token 재발급 구현
+
+- 권한 및 접근 제어
+  - 권한 별 접근 제한 (AOP)
+  - 로그아웃 구현 (토큰 쿠키 삭제)
+
+- 유저 관리
+  - 휴면 유저 처리 구현(Spring Scheduler)
+  - 휴면 유저 해제 처리 (Dooray Message API 사용)
   - 유저 탈퇴 구현
-    
-    
-- 회원 주소
-  - 다음 주소 외부 api 활용하여 주소 등록 기능 구현
-    
+  - 회원 주소 등록 기능 (다음 API 활용)
+
 - 기타
-  - 순수 금액에 따른 유저의 등급 변경 구현
+  - 유저 등급 변경 (순수 결제 기준)
+  - Spring Cache 구현 (성능 최적화를 위한 캐시 처리)
+
