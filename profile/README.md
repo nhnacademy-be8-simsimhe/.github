@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## 심심이의 서재
+## 심심북 스토어
 >  심심한 하루, 책 한권으로 채우기!
 
 URL : https://simsimbook.store/
