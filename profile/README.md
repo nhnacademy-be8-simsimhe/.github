@@ -104,11 +104,22 @@ URL : https://simsimbook.store/
 - Dooray Hook Sender
 - Swagger
 
+## 프로젝트 아키텍쳐
+
+---
+
+## 프로젝트 관리
+
+
+![erd](https://github.com/user-attachments/assets/b329ee7c-a195-46af-b527-4a730f85220a)
+
+
 ## 멤버 역할
 ---
 
 ### 고동원
  - 쿠폰
+ - 무중단
 ---
 
 ### 김민경
@@ -135,3 +146,4 @@ URL : https://simsimbook.store/
 ### 제승욱
 - 인증
 - OAuth
+- 회원 
