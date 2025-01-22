@@ -14,7 +14,21 @@
 ## 심심이의 서재
 >  심심한 하루, 책 한권으로 채우기!
 
-## ✅ erd-cloud
+URL : https://simsimbook.store/
+
+개발 기간 : 2024.12.02 ~ 2025.01.24
+
+
+
+
+프로젝트 소개
+---
+고객이 책을 검색하고 주문할 수 있는 인터넷 서점입니다.<br>
+관리자는  판매할 책을 등록, 수정 할 수 있습니다. <br>
+검색을 통해 원하시는 제목 또는 내용의 책을 구경할 수 있습니다.<br>
+회원 또는 비회원으로 원하시는 책을 골라 장바구니에 담고 주문할 수 있습니다.<br>
+
+## erd-cloud
 > https://www.erdcloud.com/d/yYCTComQswgmkvBLv
 
 ## 🌱 기여자
@@ -37,4 +51,55 @@
 
 
 
+### 개발 환경
+- 개발도구: Intellij IDEA - Ultimate
+- 언어: Java 21 LTS Temurin
+- 빌드도구: Maven
 
+
+### 개발
+- Spring Framework: 6.2.0
+- Spring Boot: 3.4.0
+- Spring Cloud
+- Spring Cloud Gateway
+- Spring Cloud Netflex(Eureka)
+- Spring Data JPA
+- Spring Data Elasticsearch
+- Spring Data Redis
+- JPA
+  - QueryDSL
+ 
+
+### 테스트
+- Junit5
+- Mockito
+- SonarQube
+
+
+### 데이터베이스
+- MySQL: 8.0.37
+- Redis
+
+
+### 검색엔진
+ - Elastic Search: 8.6.2
+
+
+### ERD
+- ERDCloud
+
+
+### UI
+- BOOTSTRAP5
+- TOAST UI
+
+
+### NHN Cloud
+- Instance
+- Secure Key Manager
+- Object Storage
+
+
+### 기타
+- Dooray Hook Sender
+- Swagger
