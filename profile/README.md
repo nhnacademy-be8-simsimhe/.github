@@ -106,12 +106,14 @@ URL : https://simsimbook.store/
 
 ## 프로젝트 아키텍쳐
 
+### ERD
+![erd](https://github.com/user-attachments/assets/b329ee7c-a195-46af-b527-4a730f85220a)
 ---
 
 ## 프로젝트 관리
 
 
-![erd](https://github.com/user-attachments/assets/b329ee7c-a195-46af-b527-4a730f85220a)
+
 
 
 ## 멤버 역할
