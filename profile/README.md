@@ -139,8 +139,24 @@ URL : https://simsimbook.store/
 ---
 
 ### 고동원
- - 쿠폰
- - 무중단
+- CI/CD
+  - GitHub Action
+  - Git Flow
+  - 무중단 배포 서비스
+  - 
+- 메시지 큐 및 분산 시스템
+  - RabbitMQ
+
+- 코드 품질 및 분석
+  - SonarQube
+
+- 쿠폰
+  - 쿠폰 등록 (금액 쿠폰, %쿠폰)
+  - 도서 쿠폰
+  - 카테고리 쿠폰
+  - Welcome 쿠폰
+  - 쿠폰 발급 내역
+  - 사용 내역
 ---
 
 ### 김민경
