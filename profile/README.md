@@ -111,6 +111,8 @@ URL : https://simsimbook.store/
 
 ![아키텍쳐 drawio](https://github.com/user-attachments/assets/ee7e8595-c379-4bbd-a147-ea6b8a75c3b8)
 
+## CI/CD 무중단 배포
+![simsimbook_CICD drawio](https://github.com/user-attachments/assets/cb5e23bb-89cc-4327-b5cf-60817672621b)
 
 ### ERD
 ![erd](https://github.com/user-attachments/assets/b329ee7c-a195-46af-b527-4a730f85220a)
