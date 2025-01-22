@@ -139,24 +139,27 @@ URL : https://simsimbook.store/
 ---
 
 ### 고동원
-- CI/CD
-  - GitHub Action
-  - Git Flow
-  - 무중단 배포 서비스
-  - 
-- 메시지 큐 및 분산 시스템
-  - RabbitMQ
-
-- 코드 품질 및 분석
-  - SonarQube
-
 - 쿠폰
-  - 쿠폰 등록 (금액 쿠폰, %쿠폰)
-  - 도서 쿠폰
-  - 카테고리 쿠폰
-  - Welcome 쿠폰
-  - 쿠폰 발급 내역
-  - 사용 내역
+    - 정책 및 타입 설계
+        - 정률, 정액 정책
+        - 책 쿠폰, 카테고리 쿠폰, 전체 쿠폰
+    - 발급 기능 (RabbitMq)
+        - Welcome 쿠폰
+        - 생일 쿠폰 (Spring Scheduler)
+    - view
+        - 발급 내역
+        - 쿠폰 할인 내역
+        - 쿠폰 정책 및 타입 목록
+    - 기타
+        - 쿠폰 만료
+        - 쿠폰 사용
+- CI/CD 무중단
+    - CI/CD
+        - Github Actions
+        - 정적 코드 분석(Sonar Qube)
+    - 무중단 배포
+        - Nginx를 통한 이중화 서버 무중단 배포
+        - Eureka를 통한 무중단 배포
 ---
 
 ### 김민경
