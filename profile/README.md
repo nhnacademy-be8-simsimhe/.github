@@ -213,6 +213,10 @@ URL : https://simsimbook.store/
 
 ### 이주현
 - 결제
+  - TossPayments api를 사용해서 결제
+  - 주문 상세 내역 조회
+  - 결제 취소 및 환불 신청
+
 
 ---
 
