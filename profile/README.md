@@ -283,6 +283,9 @@ URL : https://simsimbook.store/
   - 유저 탈퇴 구현
   - 회원 주소 등록 기능 (다음 API 활용)
 
+- 관리
+  - Swagger ui 적용하여 api 명세서 관리
+
 - 기타
   - 유저 등급 변경 (순수 결제 기준)
   - Spring Cache 구현 (성능 최적화를 위한 캐시 처리)
