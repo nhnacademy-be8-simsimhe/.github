@@ -286,4 +286,5 @@ URL : https://simsimbook.store/
 - 기타
   - 유저 등급 변경 (순수 결제 기준)
   - Spring Cache 구현 (성능 최적화를 위한 캐시 처리)
+  - Swagger ui 적용하여 api 명세서 관리
 
